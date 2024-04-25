@@ -18,7 +18,7 @@ public class Calculadora_POO {
 	public int getValor() {
 		return valor;
 	}
-	
+	//git
 	public void menu() {
 		System.out.println("Digite um operador {+,*,-,/}: ");
 		System.out.println(SOMA+"-SOMA");
